@@ -44,7 +44,7 @@ bot_username = '@zmmbot'
 bot_usernamee = '@A_MAN9300BOT'
 bot_usernameee = '@MARKTEBOT'
 bot_usernameeee = '@xnsex21bot'
-
+ownerhson_id = os.environ.get("DEVLO")
 LOGS = logging.getLogger(__name__)
 DEVS = [5159123009]
 
