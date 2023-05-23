@@ -1979,7 +1979,7 @@ async def _(event):
 
 @sython5.on(events.NewMessage(outgoing=True, pattern=r"\.فحص"))
 async def _(event):
-	 joinu = await sython5(Joi
+	
     start = datetime.datetime.now()
     await event.edit("**جاري الفحص..**")
     end = datetime.datetime.now()
