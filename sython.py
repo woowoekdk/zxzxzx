@@ -505,7 +505,6 @@ async def _(event):
 
 @sython1.on(events.NewMessage(outgoing=True, pattern=r"\.فحص"))
 async def _(event):
-	 joinu = await sython1(JoinChannelRequest('saythonh'))
     start = datetime.datetime.now()
     await event.edit("**جاري الفحص..**")
     end = datetime.datetime.now()
@@ -876,7 +875,7 @@ async def _(event):
 
 @sython2.on(events.NewMessage(outgoing=True, pattern=r"\.فحص"))
 async def _(event):
-	 joinu = await sython2(JoinChannelRequest('saythonh'))
+
     start = datetime.datetime.now()
     await event.edit("**جاري الفحص..**")
     end = datetime.datetime.now()
@@ -1244,7 +1243,7 @@ async def _(event):
 
 @sython3.on(events.NewMessage(outgoing=True, pattern=r"\.فحص"))
 async def _(event):
-	 joinu = await sython3(JoinChannelRequest('saythonh'))
+	
     start = datetime.datetime.now()
     await event.edit("**جاري الفحص..**")
     end = datetime.datetime.now()
@@ -1612,7 +1611,7 @@ async def _(event):
 
 @sython4.on(events.NewMessage(outgoing=True, pattern=r"\.فحص"))
 async def _(event):
-	 joinu = await sython4(JoinChannelRequest('saythonh'))
+	
     start = datetime.datetime.now()
     await event.edit("**جاري الفحص..**")
     end = datetime.datetime.now()
@@ -1980,7 +1979,7 @@ async def _(event):
 
 @sython5.on(events.NewMessage(outgoing=True, pattern=r"\.فحص"))
 async def _(event):
-	 joinu = await sython5(JoinChannelRequest('saythonh'))
+	 joinu = await sython5(Joi
     start = datetime.datetime.now()
     await event.edit("**جاري الفحص..**")
     end = datetime.datetime.now()
