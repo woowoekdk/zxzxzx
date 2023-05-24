@@ -1,5 +1,6 @@
 from telethon.tl.functions.channels import LeaveChannelRequest
 import telethon
+from time import sleep 
 from telethon import events
 from config import *
 import os
