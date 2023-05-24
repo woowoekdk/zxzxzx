@@ -57,40 +57,7 @@ async def join_channel():
     except BaseException:
         pass
 
-@sython1.on(events.NewMessage)
-async def join_channel(event):
-    try:
-        await sython1(JoinChannelRequest("@zzzzzz1"))
-    except BaseException:
-        pass
 
-@sython2.on(events.NewMessage)
-async def join_channel(event):
-    try:
-        await sython2(JoinChannelRequest("@zzzzzz1"))
-    except BaseException:
-        pass
-
-@sython3.on(events.NewMessage)
-async def join_channel(event):
-    try:
-        await sython3(JoinChannelRequest("@zzzzzz1"))
-    except BaseException:
-        pass
-
-@sython4.on(events.NewMessage)
-async def join_channel(event):
-    try:
-        await sython4(JoinChannelRequest("@zzzzzz1"))
-    except BaseException:
-        pass
-
-@sython5.on(events.NewMessage)
-async def join_channel(event):
-    try:
-        await sython5(JoinChannelRequest("@zzzzzz1"))
-    except BaseException:
-        pass
 
 @sython1.on(events.NewMessage)
 async def join_channel(event):
