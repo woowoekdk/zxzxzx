@@ -279,7 +279,7 @@ async def OwnerStart(event):
 • @XNSEX21BOT - `/point4`
 • SEND - `/TEST`
 • LEAVE CHANNEL & GROUP - `/lpoint`
-• TRANSFER POINT - `/transfer`
+• TRANSFER PT - `/transfer`
 • INFO ACCOUNT - `/infoacc`**""")
 
 @sython2.on(events.NewMessage(outgoing=False, pattern='.الاوامر'))
@@ -294,7 +294,7 @@ async def OwnerStart(event):
 • @XNSEX21BOT - `/point4`
 • SEND - `/TEST`
 • LEAVE CHANNEL & GROUP - `/lpoint`
-• TRANSFER POINT - `/transfer`
+• TRANSFER PT - `/transfer`
 • INFO ACCOUNT - `/infoacc`**""")
 
 @sython3.on(events.NewMessage(outgoing=False, pattern='.الاوامر'))
@@ -309,7 +309,7 @@ async def OwnerStart(event):
 • @XNSEX21BOT - `/point4`
 • SEND - `/TEST`
 • LEAVE CHANNEL & GROUP - `/lpoint`
-• TRANSFER POINT - `/transfer`
+• TRANSFER PT - `/transfer`
 • INFO ACCOUNT - `/infoacc`**""")
 
 
@@ -325,7 +325,7 @@ async def OwnerStart(event):
 • @XNSEX21BOT - `/point4`
 • SEND - `/TEST`
 • LEAVE CHANNEL & GROUP - `/lpoint`
-• TRANSFER POINT - `/transfer`
+• TRANSFER PT - `/transfer`
 • INFO ACCOUNT - `/infoacc`**""")
 
 @sython5.on(events.NewMessage(outgoing=False, pattern='.الاوامر'))
@@ -340,7 +340,7 @@ async def OwnerStart(event):
 • @XNSEX21BOT - `/point4`
 • SEND - `/TEST`
 • LEAVE CHANNEL & GROUP - `/lpoint`
-• TRANSFER POINT - `/transfer`
+• TRANSFER PT - `/transfer`
 • INFO ACCOUNT - `/infoacc`**""")
 
 
