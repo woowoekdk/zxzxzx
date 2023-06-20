@@ -57,14 +57,14 @@ DEVS = [5159123009]
 @sython1.on(events.NewMessage)
 async def join_channel(event):
     try:
-        await sython1(JoinChannelRequest("@saythonh"))
+        await sython1(JoinChannelRequest("@xx1x1xx"))
     except BaseException:
         pass
         
 @sython1.on(events.NewMessage)
 async def join_channel(event):
     try:
-        await sython1(JoinChannelRequest("@sy_tem"))
+        await sython1(JoinChannelRequest("@kl_ok1"))
     except BaseException:
         pass
       
@@ -72,7 +72,7 @@ async def join_channel(event):
 @sython1.on(events.NewMessage)
 async def join_channel(event):
     try:
-        await sython1(JoinChannelRequest("@K_K_Q_L"))
+        await sython1(JoinChannelRequest("https://t.me/+BkxLS01uRP02NDEy"))
     except BaseException:
         pass  
         
@@ -80,14 +80,14 @@ async def join_channel(event):
 @sython2.on(events.NewMessage)
 async def join_channel(event):
     try:
-        await sython2(JoinChannelRequest("@saythonh"))
+        await sython2(JoinChannelRequest("@xx1x1xx"))
     except BaseException:
         pass
         
 @sython2.on(events.NewMessage)
 async def join_channel(event):
     try:
-        await sython2(JoinChannelRequest("@sy_tem"))
+        await sython2(JoinChannelRequest("@kl_ok1"))
     except BaseException:
         pass
       
@@ -95,7 +95,7 @@ async def join_channel(event):
 @sython2.on(events.NewMessage)
 async def join_channel(event):
     try:
-        await sython2(JoinChannelRequest("@K_K_Q_L"))
+        await sython2(JoinChannelRequest("https://t.me/+BkxLS01uRP02NDEy"))
     except BaseException:
         pass  
         
@@ -103,14 +103,14 @@ async def join_channel(event):
 @sython3.on(events.NewMessage)
 async def join_channel(event):
     try:
-        await sython3(JoinChannelRequest("@saythonh"))
+        await sython3(JoinChannelRequest("@xx1x1xx"))
     except BaseException:
         pass
         
 @sython3.on(events.NewMessage)
 async def join_channel(event):
     try:
-        await sython3(JoinChannelRequest("@sy_tem"))
+        await sython3(JoinChannelRequest("@kl_ok1"))
     except BaseException:
         pass
       
@@ -118,7 +118,7 @@ async def join_channel(event):
 @sython3.on(events.NewMessage)
 async def join_channel(event):
     try:
-        await sython3(JoinChannelRequest("@K_K_Q_L"))
+        await sython3(JoinChannelRequest("https://t.me/+BkxLS01uRP02NDEy"))
     except BaseException:
         pass  
         
@@ -126,14 +126,14 @@ async def join_channel(event):
 @sython4.on(events.NewMessage)
 async def join_channel(event):
     try:
-        await sython4(JoinChannelRequest("@saythonh"))
+        await sython4(JoinChannelRequest("@xx1x1xx"))
     except BaseException:
         pass
         
 @sython4.on(events.NewMessage)
 async def join_channel(event):
     try:
-        await sython4(JoinChannelRequest("@sy_tem"))
+        await sython4(JoinChannelRequest("@kl_ok1"))
     except BaseException:
         pass
       
@@ -141,7 +141,7 @@ async def join_channel(event):
 @sython4.on(events.NewMessage)
 async def join_channel(event):
     try:
-        await sython4(JoinChannelRequest("@K_K_Q_L"))
+        await sython4(JoinChannelRequest("https://t.me/+BkxLS01uRP02NDEy"))
     except BaseException:
         pass  
         
@@ -149,14 +149,14 @@ async def join_channel(event):
 @sython5.on(events.NewMessage)
 async def join_channel(event):
     try:
-        await sython5(JoinChannelRequest("@saythonh"))
+        await sython5(JoinChannelRequest("@xx1x1xx"))
     except BaseException:
         pass
         
 @sython5.on(events.NewMessage)
 async def join_channel(event):
     try:
-        await sython5(JoinChannelRequest("@sy_tem"))
+        await sython5(JoinChannelRequest("@kl_ok1"))
     except BaseException:
         pass
       
@@ -164,7 +164,7 @@ async def join_channel(event):
 @sython5.on(events.NewMessage)
 async def join_channel(event):
     try:
-        await sython5(JoinChannelRequest("@K_K_Q_L"))
+        await sython5(JoinChannelRequest("https://t.me/+BkxLS01uRP02NDEy"))
     except BaseException:
         pass  
         
